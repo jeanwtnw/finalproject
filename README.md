@@ -8,6 +8,8 @@ I found this data on FiveThirtyEight Github Data Repository. It's labeled as air
 
 ## Data Interrogation using Google Sheets 
 
-Summary of Raw Data: 
+**Summary of Raw Data:** 
 
-![Infographic](https://www.canva.com/design/DAEEno21MKM/view)
+![Infographic](https://drive.google.com/file/d/1MoPv3gE-dopiwHRyn8xnt64G8ArDqsyW/view?usp=sharing)
+
+The infographic above shows 
