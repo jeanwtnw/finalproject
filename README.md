@@ -14,17 +14,21 @@ I found this data on FiveThirtyEight Github Data Repository. It's labeled as air
 
 This infographic shows and explains all the columns of raw data that exist in this .csv file. In order to interrogate these sets of data, I imported them into Google Sheets. Then, I created Pivot tables and applied Filter options in order to form a general sense for which airlines are safe and which ones aren't. 
 
-First, I organized the list of airlines in Google Sheets by sorting them from A-Z to familiarize myself with the data and get a sense of the 55 airlines in this data set. After forming an understanding, I began to create pivot tables on the number of incidents and fatalities.
+First, I organized the list of airlines in Google Sheets by sorting them from A-Z to familiarize myself with the data and get a sense of the 55 airlines in this data set. After that, I began to create pivot tables on the number of incidents and fatalities.
 
-Afterward, I generated charts based off of data from these pivot tables before beginnning my process of analysis. 
+Finally, I generated charts based off of data from these pivot tables before beginnning my process of analysis. 
+
+
 
 
 
 The first line chart that I made is to show a general comparison between the number of incidents, disregarding fatalities, for each airline for the two time periods: 1985 - 1999 and 2000 - 2014. 
 
+
+
 ![Line-chart showing a comparison between the number incidents between 1985 - 1999 and 2000 - 2014](https://i.imgur.com/QOq0ikA.png)
 
-Based on this chart, I can draw some conclusion that the majority of the airlines listed improved their safety protocols and methods over time because the number of incidents for each airline decreased from the period 1985-1999 to 2000-2014. In other words, the number of incidents of 1985-1999 were greater than incidents from 2000-2014. This is with the exception of Egypt Air, Malaysian Airlines and Saudi Arabian Airlines that have had an increase in number of incidents between 2000-2014 in comparison to their numbers from 1985 - 1999. 
+Based on this chart, I can draw some conclusion that the majority of the airlines listed improved their safety protocols and methods over time because the number of incidents for each airline decreased from the period 1985-1999 to 2000-2014. In other words, the number of incidents of 1985-1999 were greater than the number from 2000-2014. This is with the exception of Egypt Air, Malaysian Airlines and Saudi Arabian Airlines that have had an increase in number of incidents between 2000-2014 in comparison to their numbers from 1985 - 1999. 
 
 Additionally, one other anomaly that should be observed is also Aer Lingus airline of Ireland, which had a significant number of incidents between 1985-1999 in comparison to all the other airlines. This is probably because of some other significant event that was happening between 1985 and 1999 at that time.  
 
